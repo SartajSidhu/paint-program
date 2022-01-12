@@ -1,6 +1,6 @@
-# paint-program
+# Paint-Program
 
-## personal fortnite paint program
+## Personal fortnite paint program !
 
 #### Includes:
 * spray paint tool
