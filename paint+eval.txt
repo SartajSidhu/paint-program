@@ -1,0 +1,29 @@
+Sartaj Singh Sidhu
+------------------------------
+Attractive Layout         5/5
+Select Tools              5/5
+Stamps pictures           5/5
+Comments                  4/5
+Code Layout               2/2
+Variable names            3/3
+Load/Save                 3/3
+Attention to Detail       4/5
+Freehand Draw             5/5
+Pick Colour               2/2
+Basic shapes              10/10
+Individual Features
+--------------------
+	Spray                    1
+	Highlight                2
+	Help Box                 2
+	Brush                    0.5
+	Eyedropper               0.5
+	Menus                    2
+	Scroll resize            1
+	left/Right Colour        0.5
+	Fill/Clear               0.5
+Open-ended Individual Features 10/50
+Individual Features       10/10
+
+
+Total 58/60
