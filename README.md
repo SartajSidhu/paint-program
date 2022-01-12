@@ -13,3 +13,6 @@
 * 9 fortnite related stickers
 * save and load tool (saves canvas, or loads image on to canvas)
 * description of what each tool does
+
+## Example:
+![](backgrounds/screenshot.png)
